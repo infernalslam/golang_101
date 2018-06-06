@@ -40,14 +40,14 @@ ___
 
 Left click on "Search" and type `env` or `environment`. select `Edit environment variables` for your account
 
-Create folder at C:\go-work.
-Right click on "Start" and click on "Control Panel". Select "System and Security", then click on "System".
-From the menu on the left, select the "Advanced systems settings".
-Click the "Environment Variables" button at the bottom.
-Click "New" from the "User variables" section.
-Type GOPATH into the "Variable name" field.
-Type C:\go-work into the "Variable value" field.
-Click OK.
+* Create folder at `C:\go-work`.
+* Right click on "Start" and click on "Control Panel". Select "System and Security", then click on "System".
+* From the menu on the left, select the "Advanced systems settings".
+* Click the "Environment Variables" button at the bottom.
+* Click "New" from the "User variables" section.
+* Type GOPATH into the "Variable name" field.
+* Type C:\go-work into the "Variable value" field.
+* Click OK.
 
 
 
